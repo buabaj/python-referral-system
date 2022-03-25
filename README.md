@@ -20,7 +20,7 @@ A referral system built using FastAPI and SQLite3. This system allows users to g
 1. Make sure you have SQLite3 installed on your machine. Next, Clone this repo and navigate to the root directory.
 
 ```bash
-git clone git@github.com:buabaj/python-referral-system.git
+git clone https://github.com/buabaj/python-referral-system.git
 cd python-referral-system
 ```
 
